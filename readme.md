@@ -14,7 +14,7 @@
 git clone https://github.com/derhuerst/vbb-rest.git
 cd vbb-rest
 npm install --production
-npm start
+env PORT=8080 npm start
 ```
 
 

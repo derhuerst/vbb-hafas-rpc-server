@@ -17,9 +17,12 @@
 		"node": ">=6"
 	},
 	"dependencies": {
+		"hafas-client-rpc": "^2.1.0",
+		"vbb-hafas": "^5.0.0-alpha.5"
 	},
 	"devDependencies": {
 	},
 	"scripts": {
+		"start": "node index.js"
 	}
 }
