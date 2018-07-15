@@ -1,0 +1,25 @@
+{
+	"private": true,
+	"name": "vbb-hafas-rpc-server",
+	"description": "Using hafas-client-rpc, expose vbb-hafas as a WebSocket server.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/vbb-hafas-rpc-server",
+	"repository": "derhuerst/vbb-hafas-rpc-server",
+	"bugs": "https://github.com/derhuerst/vbb-hafas-rpc-server/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=6"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"scripts": {
+	}
+}
