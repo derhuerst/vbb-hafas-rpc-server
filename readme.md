@@ -11,8 +11,8 @@
 ## Installion
 
 ```
-git clone https://github.com/derhuerst/vbb-rest.git
-cd vbb-rest
+git clone https://github.com/derhuerst/vbb-hafas-rpc-server.git
+cd vbb-hafas-rpc-server
 npm install --production
 env PORT=8080 npm start
 ```
